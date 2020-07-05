@@ -1,0 +1,45 @@
+|addsub
+pin_name1 <= 7483:inst2.S1
+cin => inst5.IN0
+cin => inst4.IN1
+cin => inst1.IN0
+cin => inst3.IN0
+f3 => inst5.IN1
+e0 => 7483:inst2.A1
+e1 => 7483:inst2.A2
+f0 => inst4.IN0
+f1 => inst1.IN1
+e2 => 7483:inst2.A3
+f2 => inst3.IN1
+e3 => 7483:inst2.A4
+pin_name2 <= 7483:inst2.S2
+pin_name3 <= 7483:inst2.S3
+pin_name4 <= 7483:inst2.S4
+Co <= 7483:inst2.C4
+
+
+|addsub|7483:inst2
+C4 <= 83.DB_MAX_OUTPUT_PORT_TYPE
+B4 => 22.IN0
+B4 => 26.IN0
+A4 => 22.IN1
+A4 => 26.IN1
+B3 => 21.IN0
+B3 => 25.IN0
+A3 => 21.IN1
+A3 => 25.IN1
+B2 => 20.IN0
+B2 => 24.IN0
+A2 => 20.IN1
+A2 => 24.IN1
+B1 => 19.IN0
+B1 => 23.IN0
+A1 => 19.IN1
+A1 => 23.IN1
+C0 => 17.IN0
+S4 <= 45.DB_MAX_OUTPUT_PORT_TYPE
+S3 <= 44.DB_MAX_OUTPUT_PORT_TYPE
+S2 <= 43.DB_MAX_OUTPUT_PORT_TYPE
+S1 <= 42.DB_MAX_OUTPUT_PORT_TYPE
+
+

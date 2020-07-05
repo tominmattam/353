@@ -1,0 +1,11 @@
+Fitter Status : Successful - Wed Oct 02 10:23:18 2019
+Quartus Prime Version : 18.0.0 Build 614 04/24/2018 SJ Lite Edition
+Revision Name : addsub
+Top-level Entity Name : addsub
+Family : MAX II
+Device : EPM2210F324C3
+Timing Models : Final
+Total logic elements : 11 / 2,210 ( < 1 % )
+Total pins : 14 / 272 ( 5 % )
+Total virtual pins : 0
+UFM blocks : 0 / 1 ( 0 % )

@@ -1,0 +1,11 @@
+Fitter Status : Successful - Wed Oct 02 10:33:56 2019
+Quartus Prime Version : 18.0.0 Build 614 04/24/2018 SJ Lite Edition
+Revision Name : multiplier
+Top-level Entity Name : multiplier
+Family : MAX II
+Device : EPM2210F324C3
+Timing Models : Final
+Total logic elements : 14 / 2,210 ( < 1 % )
+Total pins : 12 / 272 ( 4 % )
+Total virtual pins : 0
+UFM blocks : 0 / 1 ( 0 % )

@@ -1,0 +1,11 @@
+Fitter Status : Successful - Wed Oct 30 10:12:19 2019
+Quartus Prime Version : 18.0.0 Build 614 04/24/2018 SJ Lite Edition
+Revision Name : Negator
+Top-level Entity Name : Negator
+Family : MAX II
+Device : EPM2210F324C3
+Timing Models : Final
+Total logic elements : 3 / 2,210 ( < 1 % )
+Total pins : 8 / 272 ( 3 % )
+Total virtual pins : 0
+UFM blocks : 0 / 1 ( 0 % )
